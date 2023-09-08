@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+*{
+  background-color: #010204;
+}
+
+.font-nautigal{
+  font-family: 'The Nautigal', cursive;
+}
+
+.font-bebas{
+  font-family: 'Bebas Neue', sans-serif;
+}
