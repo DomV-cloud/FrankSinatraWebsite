@@ -71,6 +71,7 @@ export default function Hero() {
         <div className="w-1/2 hidden sm:block  bg-secondary h-screen flex justify-end items-end  ">
         <img className='h-full ' src={Frank} alt="Frank" />
         </div>
+
     </section>
   )
 }
