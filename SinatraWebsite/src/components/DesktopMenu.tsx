@@ -63,7 +63,7 @@ export default function DesktopMenu() {
              after:w-full 
              after:scale-x-0 after:hover:scale-x-100 after:transition after:duration-300 after:origin-center
              ">
-                carrer
+                career
             </a>
         </li>
 
