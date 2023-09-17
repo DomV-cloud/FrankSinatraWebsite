@@ -5,7 +5,7 @@ export default function Hero() {
 
   return (
 
-    <section className="flex flex-row w-full h-screen">
+    <section className="flex flex-row w-full h-screen ">
       
         {/* left side with text*/ }
         <div className=" w-full h-screen flex justify-center items-center">

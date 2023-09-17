@@ -16,3 +16,8 @@
 #container{
   font-family: 'Bebas Neue', sans-serif;
 }
+
+.bg-blur {
+  background: transparent;
+  backdrop-filter: blur(10px);
+}

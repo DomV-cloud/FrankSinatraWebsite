@@ -10,7 +10,7 @@ export default function HamburgerIcon() {
   };
 
   return (
-    <div>
+    <div >
       <button className="relative group " onClick={toggleMenu}>
         <div className={`relative flex  overflow-hidden items-center justify-center  rounded-full  w-[50px]  h-[50px]  transform  transition-all ring-0  ring-secondary  hover:ring-8 duration-200 shadow-md ${isOpen ? "ring-4" : ""}`}>
           <div className={`flex flex-col justify-between w-[20px] h-[20px] transform transition-all duration-300 origin-center overflow-hidden`}>
